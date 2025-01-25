@@ -2,7 +2,7 @@
 Contributors: appscenicdropshipping
 Tags: AppScenic, WooCommerce, dropshipping, ecommerce
 Requires at least: 5.4
-Tested up to: 6.5
+Tested up to: 6.7
 Stable tag: 1.2.2
 Requires PHP: 7.0
 License: GPL v2 or later
